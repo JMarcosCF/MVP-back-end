@@ -1,0 +1,2 @@
+from schemas.equipamento import EquipamentoBuscaSchema, EquipamentoDelSchema, EquipamentoBuscaSchema, EquipamentoSchema, EquipamentoViewSchema, apresenta_equipamento, apresenta_equipamentos, ListagemEquipamentosSchema 
+from schemas.error import ErrorSchema                              
